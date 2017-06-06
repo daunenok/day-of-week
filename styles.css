@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	padding: 0 20px;
+	background-color: darkblue;
+}
+p {
+	color: #fff;
+	text-shadow: 3px -3px 10px #fff;
+	font-family: cursive;
+	text-align: center;	
+	font-size: 50px;
+}
